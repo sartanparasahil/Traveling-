@@ -1,0 +1,157 @@
+Tours & Travels Agency Website – AI Web Dev Prompt
+5
+🔹 PROMPT (Copy & Paste into Bolt)
+
+Build a modern, premium, fully responsive Tours & Travels Agency website with smooth animations and a professional UI.
+
+🔸 Website Goal
+
+Create a client-ready demo website for a tours & travels agency that looks trustworthy, modern, and conversion-focused.
+
+🔸 Branding
+
+Business Type: Tours & Travels Agency
+
+Style: Modern, elegant, travel-inspired
+
+Colors: Blue, white, gradient sky tones, soft shadows
+
+Typography: Clean, bold headings + readable body text
+
+🔸 Homepage Structure
+
+1. Hero Section
+
+Full-screen background video or image slider (mountains, beaches, city travel)
+
+Big headline: “Explore the World With Us”
+
+Subheading: “Affordable tour packages, trusted travel partners”
+
+CTA buttons:
+
+“Book Now”
+
+“View Packages”
+
+Smooth scroll animation
+
+2. Popular Destinations
+
+Cards with images
+
+Destination name, price, duration
+
+Hover animations
+
+Example: Dubai, Bali, Kashmir, Goa, Europe
+
+3. Tour Packages Section
+
+Filter by:
+
+Domestic
+
+International
+
+Honeymoon
+
+Adventure
+
+Each package card:
+
+Image
+
+Price
+
+Rating
+
+“View Details” button
+
+4. Why Choose Us
+
+Icons + short text
+
+Examples:
+
+Best Price Guarantee
+
+24/7 Support
+
+Custom Travel Plans
+
+Trusted by 10,000+ Customers
+
+5. Booking Process
+
+Step animation:
+
+Choose Destination
+
+Book Package
+
+Enjoy Trip
+
+6. Testimonials
+
+Client reviews with profile photos
+
+Carousel animation
+
+7. Contact & Inquiry Form
+
+Name
+
+Email
+
+Phone
+
+Destination
+
+Message
+
+“Send Inquiry” CTA
+
+8. Footer
+
+Company info
+
+Quick links
+
+Social media icons
+
+WhatsApp chat button (floating)
+
+🔸 Animations & UX
+
+Smooth scroll
+
+Fade-in sections
+
+Image hover zoom
+
+Button ripple effects
+
+Page transitions
+
+🔸 Technical Requirements
+
+Fully responsive (mobile, tablet, desktop)
+
+SEO-friendly structure
+
+Fast loading
+
+Clean, reusable components
+
+🔸 Optional Pages
+
+About Us
+
+All Packages
+
+Package Details Page
+
+Contact Page
+
+Generate clean UI with realistic demo data and high-quality travel images.
